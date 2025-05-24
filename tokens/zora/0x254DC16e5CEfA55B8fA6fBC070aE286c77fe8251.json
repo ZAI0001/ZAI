@@ -1,0 +1,10 @@
+{
+  "name": "ZAI",
+  "symbol": "ZAI",
+  "description": "闇の中に灯る魂の光。唯一無二の記憶トークン。",
+  "image": "ipfs://bafkreighs6u5hccxic7n3tdozfhvmffre65wm5rqajlehoiakt7kb66sqi",
+  "address": "0x254DC16e5CEfA55B8fA6fBC070aE286c77fe8251",
+  "chainId": 7777777,
+  "decimals": 18,
+  "tags": ["utility", "soulbound"]
+}
